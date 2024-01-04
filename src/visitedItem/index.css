@@ -1,0 +1,35 @@
+.list-element {
+  height: 250px;
+  width: 250px;
+  background-color: #1f1f2f;
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
+.image {
+  width: 250px;
+  height: 180px;
+}
+.country-and-delete {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 6px;
+}
+.visited-country {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 400;
+  margin-left: 15px;
+}
+.delete-button {
+  background-color: transparent;
+  color: #ffffff;
+  border: 1px solid #94a3b8;
+  border-radius: 4px;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 400;
+  margin-right: 15px;
+  padding: 3px 9px 3px 9px;
+}
